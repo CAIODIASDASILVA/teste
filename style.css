@@ -1,10 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 :root{
+   
+    
+   
     --cor-de-fundo: #1e1e1e;
-    --verde: #6FFF54
-    --branco: #FFFFFF;
+    --verde: #6FFF54;
+    --branco:#FFFFFF;
     --botao-ativo: #3A375E;
-    --botao
+    --botao-inativo: rgb(58,55,94,0.5);
+    --texto-fundo: rgb(58,55,94,0.3);
 
 
+}
+
+body{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 500;
+    font-style: normal;
 }
