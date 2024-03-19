@@ -29,3 +29,6 @@ body{
     margin: 0 auto;
 }
 
+.cabecalho-principal span{
+    color: var(#FF0000);
+}
