@@ -30,5 +30,5 @@ body{
 }
 
 .cabecalho-principal span{
-    color: var(#FF0000);
+    color:var(--verde)
 }
