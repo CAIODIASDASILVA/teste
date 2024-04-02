@@ -36,6 +36,16 @@ body{
 .botao{
     font-size: 18px;
     background-color: var(--botao-inativo);
+    padding: 1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--branco);
+    width: 100%;
+    border-bottom: 4px solid var(--botao-ativo);
+    border-left: 2px solid var(--botao-ativo);
+    border-right: 2px solid var(--botao-ativo);
+    border-top: none;
 
 
 }
