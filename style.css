@@ -21,6 +21,7 @@ body{
 }
 
 .cabecalho-principal{
+    color: var(--vermelho);
     display:flex;
     flex-direction: column;
     justify-content:center;
