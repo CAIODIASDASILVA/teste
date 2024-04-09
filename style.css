@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 :root{
    
-    --cor-de-fundo:( rgba(9,9,121,1) 0%, rgba(2,0,36,1) 51%, rgba(2,9,45,1) 53%, rgba(0,212,255,1) 100%);
+    --cor-de-fundo:background: rgb(9,9,121);
+    background: linear-gradient(90deg, rgba(9,9,121,1) 0%, rgba(2,0,36,1) 51%, rgba(2,9,45,1) 53%, rgba(0,212,255,1) 100%);
     --vermelho: #8b8181;
     --branco:#FFFFFF;
     --botao-ativo: #f60000;
