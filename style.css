@@ -49,26 +49,24 @@ body{
     border-right: 4px solid var(--botao-ativo);
     border-top: none;
 }
-.botao {
+.principal-botoes {
     display: block;
 }
 
-.botao:first-child {
+.principal-botoes:first-child {
     border-radius: 40px 40px 0 0;
 }
 
 @media screen and (min-width: 768px) {
-    .botoes {
+    .principal-botoes {
         display: flex;
     }
     
-    .botao:first-child {
+    .principal-botoes:first-child {
         border-radius: 40px 0 0 0;
     }
 
-        
-    
-        .botao:last-child {
+ .principal-botoes:last-child {
             border-radius: 0 40px 0 0;
         }
     }
