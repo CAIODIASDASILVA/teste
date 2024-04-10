@@ -13,7 +13,7 @@
 }
 
 body{
-    background-color: var(--cor-de-fundo);
+    background-color: var(--texto-fundo);
     font-family: "Bebas Neue", sans-serif;
     font-weight: 500;
     font-style: normal;
