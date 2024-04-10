@@ -49,7 +49,7 @@ body{
     border-right: 4px solid var(--botao-ativo);
     border-top: none;
 }
-.botoes {
+.botao {
     display: block;
 }
 
