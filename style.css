@@ -53,7 +53,7 @@ body{
     display: block;
 }
 
-.principal-botoes:first-child {
+.botao:first-child {
     border-radius: 40px 40px 0 0;
 }
 
