@@ -21,7 +21,7 @@ body{
 
 }
 .titulo{
-    color: VAR (--branco);
+    color: var(--branco);
 }
 
 .cabecalho-principal{
