@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 :root{
    
-    --cor-de-fundo:background: rgb(9,9,121);
-    background: linear-gradient(90deg, rgba(9,9,121,1) 0%, rgba(2,0,36,1) 51%, rgba(2,9,45,1) 53%, rgba(0,212,255,1) 100%);
+    --cor-de-fundo:background: rgb(255,8,8);
+    background: linear-gradient(90deg, rgba(255,8,8,1) 4%, rgba(0,0,0,1) 50%, rgba(0,212,255,1) 96%);
     --vermelho: #8b8181;
     --branco:#ffffffd3;
     --botao-ativo: #665d5d52;
@@ -46,7 +46,8 @@ body{
     justify-content: center;
     align-items: center;
     color: var(--branco);
-    width: 100%;
+    width: 100%;background: rgb(255,8,8);
+    background: linear-gradient(90deg, rgba(255,8,8,1) 4%, rgba(0,0,0,1) 50%, rgba(0,212,255,1) 96%);
     border-bottom: 4px solid var(--botao-ativo);
     border-left: 4px solid var(--botao-ativo);
     border-right: 4px solid var(--botao-ativo);
