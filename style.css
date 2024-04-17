@@ -85,4 +85,11 @@ body{
     border-radius: 0 0 40px 40px;
 
 }
-.aba-conteudo{}
+.aba-conteudo{
+    text-align: center;
+    font-size: 28px
+}
+.aba-conteudo-titulo-secundario{
+    color: var(--verde);
+    text-transform: uppercase;
+}
