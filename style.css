@@ -79,8 +79,10 @@ body{
         }
 .aba-textos{
     background-color:#665d5d7a;
+    padding: 40px;
     color: rgb(255, 255, 255);
     border-radius: 0 0 40px 40px;
+    
 
 
 }
