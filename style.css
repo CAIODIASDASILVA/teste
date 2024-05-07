@@ -89,6 +89,10 @@ body{
     text-align: center;
     font-size: 28px
 }
+.aba-conteudo-titulo-principal{
+    color: aliceblue;
+    text-transform: uppercase;
+}
 .aba-conteudo-titulo-secundario{
     color: var(--verde);
     text-transform: uppercase;
