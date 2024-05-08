@@ -74,7 +74,11 @@ body{
             border-radius: 0 40px 0 0;
         }
     }
-.ativo{
+
+
+
+
+.botao.ativo{
         background-color: var(--botao-ativo);
         border-bottom: 4px solid var(--verde);
         }
@@ -84,6 +88,12 @@ body{
     color: rgb(255, 255, 255);
     border-radius: 0 0 40px 40px;
 
+}
+.aba-conteudo{
+    display: none;
+}
+.aba-conteudo.ativo{
+    display: block;
 }
 .aba-conteudo{
     text-align: center;
